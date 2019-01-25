@@ -8,7 +8,7 @@
 # Google resources (rooms) as appropriate.
 #
 #
-# Copyright 2018 Apu <apu@pingry.org> (Aug. 2018)
+# Copyright 2018 Apu <apu@pingry.k12.nj.us> (Aug. 2018)
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
